@@ -1,5 +1,5 @@
 # calculator
-
+This is a simple Vue application. Here I use jest/testing-library to write unit tests for the components. 
 ## Project setup
 ```
 npm install
